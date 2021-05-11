@@ -1,0 +1,20 @@
+{
+  "name": "typescript-code-challenge",
+  "version": "1.0.0",
+  "description": "JSON customer order transform script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no unit tests\"",
+    "transform": "tsc && node ./out/transform.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinefa/typescript-code-challenge.git"
+  },
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinefa/typescript-code-challenge/issues"
+  },
+  "homepage": "https://github.com/sinefa/typescript-code-challenge#readme"
+}
