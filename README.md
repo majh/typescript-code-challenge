@@ -2,6 +2,12 @@
 
 Write a Node script that transforms `data.json` into `data-transformed.json`. Have a look at `example-output.json` to show how the data should be transformed.
 
+## Build and Run
+
+```
+npm run transform
+```
+
 ## General Approach and Assumptions
 
 - Solution should be implemetned in TypeScript.
@@ -26,3 +32,4 @@ Your work will be evaluated primarily on:
  1. Fork this project on github.
  2. Update this README.md file with instructions on how to build/test/run your script.
  3. When you're finished, send us the URL of your public repository.
+
