@@ -3,11 +3,6 @@
 Write a Node script that transforms `data.json` into `data-transformed.json`. Have a look at `example-output.json` to show how the data should be transformed.
 
 
-## Installation
-```
-npm i jest @types/jest ts-jest typescript -D
-```
-
 ## Build and Run
 
 ```
