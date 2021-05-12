@@ -109,7 +109,7 @@ const parse_json = (data: string) => {
     return JSON.parse(data)
 }
 
-const do_transform = async (input_file: string, output_file: string) => {
+export const do_transform = async (input_file: string, output_file: string) => {
     try {
         const data = await load_file(input_file);
         const objects: ObjectIn[] = parse_json(data);
